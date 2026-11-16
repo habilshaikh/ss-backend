@@ -172,6 +172,25 @@
   ],
   "leaders": [
     {
+      "image": "/VishalShingavi.jpg",
+      "name": "Adv. Vishal Shingavi",
+      "role": "Owner, VDS Law Firm · Specialist in RERA Litigations & Civil Laws · 17 Years of Experience",
+      "paras": [
+        "Adv. Vishal Shingavi is the Founder of V.D. Shingavi & Associates – Advocates & Legal Consultants, Pune, Maharashtra. His legal practice encompasses Real Estate Laws, Property and Land Laws, Civil Litigation, RERA Proceedings, Revenue Matters and Commercial Legal Advisory. He is committed to providing comprehensive legal counsel, protecting clients' legal interests and ensuring compliance with applicable statutory and regulatory frameworks.",
+        "His areas of practice include drafting and vetting of legal instruments, conveyancing, title investigation, property due diligence, sale deeds and agreements, RERA registrations and proceedings, civil disputes, specific performance suits, injunction matters, land revenue proceedings, mutation and record-related matters, MIDC plot transactions, and legal advisory for residential, commercial and plotted development projects. Through his firm, he endeavours to uphold professional ethics, legal diligence, transparency and effective client representation, with a focus on protecting property rights, mitigating legal risks and advancing the lawful interests of clients through appropriate legal remedies."
+      ]
+    },
+    {
+      "image": "/KartiqueGolande.jpg",
+      "name": "CA. Kartique A. Golande",
+      "role": "TDS Compliance & Advisory Consultant · B.Com, FCA",
+      "paras": [
+        "A TDS Compliance & Advisory professional with extensive hands-on experience in end-to-end TDS compliance and advisory services across corporates, educational institutions, charitable trusts, co-operative societies, manufacturing companies, business organisations and professionals.",
+        "Areas of expertise include TDS applicability and interpretation, compliance management, quarterly return filing, correction statements, TDS reconciliations, year-end finalization, TRACES demand management, resolution of defaults and short deductions, and rectification of historical TDS liabilities.",
+        "Has significant practical experience in independently handling complex TDS matters, providing transaction-specific guidance and managing compliance-related issues from initial assessment through resolution."
+      ]
+    },
+    {
       "image": "/CAPriyankaJainManager.jpeg",
       "role": "Manager · B.Com, ACA",
       "name": "CA. Priyanka Jain",
@@ -189,16 +208,6 @@
         "His core practice lies in direct and indirect tax litigation and matters arising under the MSME framework.",
         "His certification in Cyber Law and Data Privacy supports his advisory work on digital regulation and data-protection obligations.",
         "Practice Areas: Income Tax Litigation · GST Litigation · Search & Survey Proceedings · MSME Matters · Tribunal Practice · Civil Matters · Family Matters · Legal Drafting (Gift Deeds, MOUs, Agreements) · Cyber Law & Data Privacy"
-      ]
-    },
-    {
-      "image": "/KartiqueGolande.jpg",
-      "name": "CA. Kartique A. Golande",
-      "role": "TDS Compliance & Advisory Consultant · B.Com, FCA",
-      "paras": [
-        "A TDS Compliance & Advisory professional with extensive hands-on experience in end-to-end TDS compliance and advisory services across corporates, educational institutions, charitable trusts, co-operative societies, manufacturing companies, business organisations and professionals.",
-        "Areas of expertise include TDS applicability and interpretation, compliance management, quarterly return filing, correction statements, TDS reconciliations, year-end finalization, TRACES demand management, resolution of defaults and short deductions, and rectification of historical TDS liabilities.",
-        "Has significant practical experience in independently handling complex TDS matters, providing transaction-specific guidance and managing compliance-related issues from initial assessment through resolution."
       ]
     }
   ]
